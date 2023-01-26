@@ -1,1 +1,1 @@
-# ARCADE-DSC
+# [ARCADE-DSC](http://discord.arcade-project.ml/)
